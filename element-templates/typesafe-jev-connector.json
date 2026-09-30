@@ -49,7 +49,7 @@
     {
       "id": "authentication.token",
       "label": "API key",
-      "value": "{{secrets.TYPESAFE_API_KEY}}"
+      "value": "{{secrets.TYPESAFE_API_KEY}}",
       "group": "authentication",
       "feel": "optional",
       "constraints": {
